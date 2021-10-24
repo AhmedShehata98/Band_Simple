@@ -67,7 +67,7 @@ nav ul li a:hover{
 /* end Navbar */
 /* start slideShow */
 .slide-show{
-    background-image: url(imgs/main.jpg);
+    background-image: url(../imgs/main.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 100%;
